@@ -30,3 +30,4 @@ C:\Users\brock\OneDrive\Documents\CodeStack\Level 2\MiniChallenge5Through7\obj\D
 C:\Users\brock\OneDrive\Documents\CodeStack\Level 2\MiniChallenge5Through7\obj\Debug\net8.0\MiniChallenge5Through7.pdb
 C:\Users\brock\OneDrive\Documents\CodeStack\Level 2\MiniChallenge5Through7\obj\Debug\net8.0\MiniChallenge5Through7.genruntimeconfig.cache
 C:\Users\brock\OneDrive\Documents\CodeStack\Level 2\MiniChallenge5Through7\obj\Debug\net8.0\ref\MiniChallenge5Through7.dll
+C:\Users\brock\OneDrive\Documents\CodeStack\Level 2\MiniChallenge5Through7\obj\Debug\net8.0\MiniChallenge5Through7.sourcelink.json
